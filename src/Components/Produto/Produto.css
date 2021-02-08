@@ -1,0 +1,18 @@
+figure{
+   text-align: center; 
+}
+
+.preco-prod{
+    color: rgb(255,0,0);
+    text-decoration: line-through;
+}
+
+.preco_final-prod{
+    font-size: 15pt;
+    font-weight: bolder;
+}
+
+figure{
+    border: 1px solid rgba(0,0,0, .1);
+    padding: 5px;
+}
